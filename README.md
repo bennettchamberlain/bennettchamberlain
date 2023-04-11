@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Bennett. I am a UI/UX designer and full-stack engineer well-versed in Dart & Flutter, Python scripting, and dabble with C++ for algorithmic trading.
+### Check out my website https://bennettchamberlain.com for a more in-depth look at what I am working on.
 
+### I am always looking for people to collaborate with on new projects
+### 📫 Reach me via email: chamberlain.bennett@gmail.com
 <!--
 **bennettchamberlain/bennettchamberlain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
