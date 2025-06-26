@@ -3,6 +3,8 @@
 
 ### I am always looking for people to collaborate with on new projects
 ### 📫 Reach me via email: bennett@arbiterpm.com
+
+🔭 I’m currently working on StudioTimes.io
 <!--
 **bennettchamberlain/bennettchamberlain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
