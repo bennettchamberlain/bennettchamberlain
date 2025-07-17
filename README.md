@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Bennett. I am a UI/UX designer and full-stack engineer well-versed in Dart & Flutter, Python scripting, and C++ for algorithmic trading.
+### Hi there 👋, my name is Bennett. I am a UI/UX designer and full-stack engineer well-versed in Dart & Flutter, Javascript, Python, and C++.
 ### Check out my website https://arbiterpm.com for a more in-depth look at what I am working on.
 
 ### I am always looking for people to collaborate with on new projects
