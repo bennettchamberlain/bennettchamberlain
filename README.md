@@ -1,21 +1,45 @@
-### Hi there 👋, my name is Bennett. I am a UI/UX designer and full-stack engineer well-versed in Dart & Flutter, Javascript, Python, and C++.
-### Check out my website https://arbiterpm.com for a more in-depth look at what I am working on.
+# Bennett Chamberlain
 
-### I am always looking for people to collaborate with on new projects
-### 📫 Reach me via email: bennett@arbiterpm.com
+Lifelong student. AI researcher. I work on ontologies and local inference, and I spend most of my time making models smaller and faster.
 
-🔭 I’m currently working on StudioTimes.io
-<!--
-**bennettchamberlain/bennettchamberlain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Los Angeles by way of Denver. Virginia Tech, Applied Economics with a CS minor. I build things that look finished and actually ship.
 
-Here are some ideas to get you started:
+**Now:** [StudioTimes](https://studiotimes.io) · local AI · knowledge graphs · getting useful models onto machines people already own.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[bennettchamberlain.com](https://bennettchamberlain.com) · [arbiterpm.com](https://arbiterpm.com)
+
+---
+
+## Focus
+
+Local models. Ontologies. Semantic graphs. Quantization. Agent runtimes that stay on your hardware. Pixel-perfect product when the work has to leave the lab.
+
+Iterate, improve, repeat. Find what you love that fuels the vision, then make time to enjoy life.
+
+## Building
+
+- [StudioTimes](https://studiotimes.io) — studio booking and ops
+- [Arbiter](https://arbiterpm.com) — project management on Sanity, Next.js, and Three.js
+- [Finger](https://github.com/bennettchamberlain/finger) — open source social for a friend group
+- Guest ticketing and an iPad paint toy for the [Mr. Brainwash Art Museum](https://www.mrbrainwash.com)
+- Personal site, rebuilt on Next.js after a long Flutter run
+
+## Skills
+
+**Research** · local inference · llama.cpp · Ollama · GGUF · quantization · ontologies · knowledge graphs · semantic web · Hugging Face · Mistral
+
+**Product** · TypeScript · JavaScript · Python · Dart · Flutter · C++ · React · Next.js · Tailwind · Three.js · HTML · CSS
+
+**Systems** · PostgreSQL · Firebase · AWS · Cloudflare · Docker · Sanity · Git
+
+**Craft** · Figma · UI/UX · project management
+
+## Before that
+
+Full stack at Mr. Brainwash in Beverly Hills. Founded INIQUIN in San Francisco. Websites and honest timelines at Kaspian. Fintech summer at Forte Capital in New York.
+
+## Contact
+
+[bennett@arbiterpm.com](mailto:bennett@arbiterpm.com)
+
+If you are working on smaller models, local runtimes, or something that should have shipped last month, write me.
